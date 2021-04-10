@@ -1,4 +1,4 @@
-# pneumonia-detection
+# Pneumonia Detection
 
 ## About
 CNN and Tranfer Learning algorithms like VGG-16, MobileNetV2, DenseNet169 and InceptionV3 has been used for this experiment.
